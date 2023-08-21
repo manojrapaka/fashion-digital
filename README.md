@@ -1,4 +1,4 @@
-# Fasion Digital
+# Fashion Digital
 Recruitment Exercise Node.js
 
 ## Introduction
